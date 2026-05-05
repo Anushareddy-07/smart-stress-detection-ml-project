@@ -1,0 +1,12 @@
+SMART STRESS DETECTION IN OFFICE ENVIRONMENT USING MACHINE LEARNING
+
+Slide 1: Title
+Slide 2: Introduction to Employee Stress Problem
+Slide 3: Objective of the Project
+Slide 4: Input Parameters Used
+Slide 5: System Architecture / Workflow
+Slide 6: Algorithm Used - Decision Tree
+Slide 7: Dataset Sample
+Slide 8: Output Prediction
+Slide 9: Advantages
+Slide 10: Conclusion
